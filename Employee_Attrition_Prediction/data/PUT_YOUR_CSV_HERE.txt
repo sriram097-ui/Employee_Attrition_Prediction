@@ -1,0 +1,1 @@
+Copy your employee dataset here and name it employee_attrition.csv. The app will use demo data until the CSV is present.

@@ -1,0 +1,7 @@
+shiny
+shinydashboard
+tidyverse
+ggplot2
+DT
+randomForest
+scales
